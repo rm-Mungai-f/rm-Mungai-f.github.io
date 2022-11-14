@@ -1,0 +1,9 @@
+.container{
+    border-radius: 20rem;
+    width: 50%;
+    justify-content: center;
+    margin: 5rem;
+    display: flex;
+    align-content: center;
+    height:fit-content;
+}
